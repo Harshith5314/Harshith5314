@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, This is Harshith Kaduluri </h1>
-<h3 align="center">A passionate Frontend Developer and Software Engineer from India 🧑‍💻 </h3>
+<h3 align="center">A passionate Frontend Developer and Software Engineer from India 🧑‍💻 </h3><br>
 
-<img align="centre" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<p align="center"> <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"><br>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshith5314&label=Profile%20views&color=0e75b6&style=flat" alt="harshith5314" /> </p><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith5314&label=Profile%20views&color=0e75b6&style=flat" alt="harshith5314" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshith5314" alt="harshith5314" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshith5314" alt="harshith5314" /></a> </p><br>
 
 - 📫 How to reach me **kaduluriharshith@gmail.com**
 
