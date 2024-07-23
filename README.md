@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, This is Harshith Kaduluri </h1>
 <h3 align="center">A passionate Frontend Developer and Software Engineer from India 🧑‍💻 </h3><br>
 
@@ -10,11 +9,11 @@
 
 - 📫 How to reach me **kaduluriharshith@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y4KwD4NHk8ezccV2dQBPP8hb8Yf4qx1p/view?usp=drive_link](https://drive.google.com/file/d/1Y4KwD4NHk8ezccV2dQBPP8hb8Yf4qx1p/view?usp=drive_link)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Y4KwD4NHk8ezccV2dQBPP8hb8Yf4qx1p/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/harshith_1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/harshith_1323" height="30" width="40" /></a>
+<a href="https://codepen.io/harshith_1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/harshith_1323" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshith-kaduluri-ba9b2b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith-kaduluri-ba9b2b230/" height="30" width="40" /></a>
 <a href="https://kaggle.com/harshithkaduluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshithkaduluri" height="30" width="40" /></a>
 <a href="https://instagram.com/harshith_kaduluri_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshith_kaduluri_18/" height="30" width="40" /></a>
